@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">JetpackComposeApplication</string>
+    <string name="happy_birthday">Happy Birthday Mjay</string>
+    <string name="signature_text">- from Marvin</string>
 </resources>
